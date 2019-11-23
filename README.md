@@ -1,5 +1,5 @@
 # Ango
-Ango is a hackathon project promoting United Nation's Sustainable Development Goals 1, 2, 3 and 4 which helps with outreach for NGOs. The project is presented as a browser extension for implemnting it's core idea. We've noticed youths are not getting enough information about NGO's that exist and the work they do. So, we pitched an idea for a project which would let the youth access to this information with the help of a non intrusive New Tab page with search bar functionality which will present the NGO's outreach data.
+Ango is a hackathon project promoting United Nation's Sustainable Development Goals which helps with outreach for NGOs. The project is presented as a browser extension for implemnting it's core idea. We've noticed youths are not getting enough information about NGO's that exist and the work they do. So, we pitched an idea for a project which would let the youth access to this information with the help of a non intrusive New Tab page with search bar functionality which will present the NGO's outreach data.
 
 Our idea is a start page for computers in institutions, school libraries etc. It generates flyer for NGOs outreach everytime one opens a new tab on their browser which will have NGO's information and donation links. The background would be a static google map's marked background which will be showing the NGO's office location.
 
