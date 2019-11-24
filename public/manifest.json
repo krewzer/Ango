@@ -1,0 +1,15 @@
+
+{
+    "manifest_version": 2,
+    "name": "NGO Tab",
+    "author": "Kreuzer",
+    "version": "1.0.1",
+    "description": "NGO outreach extension",
+   
+    "chrome_url_overrides": {
+      "newtab": "index.html"
+    }, 
+    "content_security_policy":"script-src 'self' 'sha256-5As4+3YpY62+l38PsxCEkjB1R4YtyktBtRScTJ3fyLU='; object-src 'self' ",
+    
+    "permissions": ["storage","tabs"]
+  }
