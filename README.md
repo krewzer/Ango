@@ -5,7 +5,11 @@ Our idea is a start page for computers in institutions, school libraries etc. It
 
 Any NGO can outreach their data to the Ango service by submitting their data to a form which would be linked on the extension footer without any royalty as such. With every search we would donate half of all generated advertising revenues to charities that are registered on platform.
 
-
 ----------------
 
 Ango is a project made with <3 by team Krewzer of 3 at the event OSDHACK'19.
+
+----------------
+
+Find a live demo [Here](https://codesandbox.io/s/ango-zy8y9)
+
